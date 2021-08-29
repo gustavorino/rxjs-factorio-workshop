@@ -1,6 +1,6 @@
 # Factorio
 
-This project was used in the Learning RXJS using Factorio workshop.
+This project was used in "Aprendendo RXJS com Factorio" workshop.
 
 Video Link : https://www.youtube.com/watch?v=7pS5lljUnoo
 
