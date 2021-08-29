@@ -1,6 +1,8 @@
 # Factorio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+This project was used in the Learning RXJS using Factorio workshop.
+
+Video Link : https://www.youtube.com/watch?v=7pS5lljUnoo
 
 ## Development server
 
